@@ -25,7 +25,9 @@ publication, that we can download and work with these new data sets.
 
 The first data set dropped on May 25, 2023. It was the 
 [2020 Census Demographic and Housing Characteristics File (DHC)](https://www.census.gov/data/tables/2023/dec/2020-census-dhc.html).
-On May 30, we created a [demo notebook]() illustrating how to
+On May 30, we created the first demo notebook in this project,
+[demo notebook](https://github.com/vengroff/census-drops/blob/main/DHC%20Demo.ipynb),
+which illustrates how to
 download data from this data set with censusdis.
 
 As the various additional data sets mentioned in Santos' blog post are
@@ -34,6 +36,9 @@ as part of this project. If necessary, we will modify and enhance censusdis
 to work with them, but our hope is that it will be able to handle all of
 them out of the box, with no additional extensions or modifications.
 
+You can run the demo notebook, courtesy of [mybinder.org](https://mybinder.org/),
+by following the following link:
 
+- [2020 Census Demographic and Housing Characteristics File (DHC)](https://mybinder.org/v2/gh/vengroff/census-drops/HEAD?labpath=DHC%20Demo.ipynb)
 
 
