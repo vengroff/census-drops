@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "census-drops"
+version = "0.1.0"
+description = ""
+authors = ["vengroff <vengroff@gmail.com>"]
+readme = "README.md"
+packages = [{include = "census_drops"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+censusdis = "^0.13.4"
+jupyterlab = "^4.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
